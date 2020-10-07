@@ -77,7 +77,7 @@ function setup() {
 
 function modelLoaded() {
     console.log("Model Ready!");
-  }
+}
   
 function gotPoses(poses) {
     // console.log(poses);
