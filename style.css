@@ -1,0 +1,35 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.project__buttons {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.prettyHands {
+    flex-direction: column;
+}
+
+.soothingMusic {
+    flex-direction: column;
+}
+
+.sereneSetting {
+    flex-direction: column;
+}
+
+.autoBreather {
+    flex-direction: column;
+}
+
+.autoBreatherProf {
+    flex-direction: column;
+}
+
+.buttonText {
+    font-size: 7pt;
+}
